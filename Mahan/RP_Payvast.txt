@@ -1,0 +1,7 @@
+Client id:RP_Payvast
+Client Secret:mL7NWJn5c6g8A8fd8UI8zOS894IYSJyN
+
+
+user:12345678	pass:123
+
+user:87654321	pass:123
